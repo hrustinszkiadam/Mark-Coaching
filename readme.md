@@ -1,0 +1,1 @@
+Ebben a szarban Márkot tanítom weblapot szerkeszteni.
