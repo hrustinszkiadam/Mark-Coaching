@@ -1,0 +1,36 @@
+body {
+    background-color: aliceblue;
+    color: darkblue;
+}
+a:hover,a,h2:hover,h2 {
+    color: crimson;
+}
+.potcim {  
+    margin: auto;
+    display: block;
+}
+.img-border {
+    border: 1px solid black;
+}
+.center {
+    text-align: center;
+}
+.besorolas-table {
+    width: 500px;
+    border: none;
+    margin: auto
+}
+.besorolas-table td {
+    padding: 6px;
+    margin: 6px;
+}
+.elso-oszlop {
+    width: 240px;
+    text-align: right;
+}
+.alcimek {
+    background-color: crimson;
+}
+.alcimek h2 {
+    color: aliceblue;
+}
